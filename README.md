@@ -36,6 +36,3 @@ Adjust sliders and click **“Run TDSE”**.
 
 ```python
 run_tdse('Harmonic', k_strength=50, sigma=0.3, kx0=20, ky0=0)
-![TDSE_current](https://github.com/user-attachments/assets/fe46b22e-1198-4483-b6b8-458ca5019bd9)
-![TDSE_surface](https://github.com/user-attachments/assets/fea14917-3c3e-47a4-b21a-63d23f8d2c0c)
-![TDSE_heatmap](https://github.com/user-attachments/assets/33164ecc-c4ea-4036-a240-8c494a0bcc2e)
